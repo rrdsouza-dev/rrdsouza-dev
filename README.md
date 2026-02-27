@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá, eu sou o Renato Rodrigues
 
-<!--
-**rrdsouza-dev/rrdsouza-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Focado em Back-end
 
-Here are some ideas to get you started:
+Sou um programador Full Stack com um foco especial pela arquitetura e lógica do **Back-end**. Tenho um conhecimento sólido e profundo em construção de APIs e sistemas escaláveis, mantendo um conhecimento leve e funcional no **Front-end** para garantir entregas completas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Atualmente trabalhando com: **FastAPI, Python, C# e APS.NET**
+- Foco principal: Eficiência de dados e arquitetura de sistemas.
+- Aprendendo sempre: Novas formas de otimizar consultas SQL e NoSQL.
+
+---
+
+### ✦ Tecnologias
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-333333?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-333333?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-333333?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-333333?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
+
+
+
+###  Como me encontrar
+
+<div align="left">
+<a href="URL_DO_SEU_LINKEDIN" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:seuemail@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://discord.com/users/SEU_ID_OU_USER" target="_blank">
+<img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+</div>
