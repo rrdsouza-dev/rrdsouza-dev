@@ -15,8 +15,6 @@ Sou um programador Back-end com um foco especial pela arquitetura e lógica do *
 <div align="left">
   <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-333333?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-333333?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-333333?style=for-the-badge&logo=postgresql&logoColor=white" />
