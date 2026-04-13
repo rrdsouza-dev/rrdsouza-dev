@@ -4,7 +4,7 @@
 
 Sou um programador Back-end com um foco especial pela arquitetura e lógica do **Back-end**. Tenho um conhecimento sólido e profundo em construção de APIs e sistemas escaláveis, mantendo um conhecimento leve e funcional no **Front-end** para garantir entregas completas.
 
-- Atualmente trabalhando com: **FastAPI, Python, C# e APS.NET**
+- Atualmente trabalhando com: **FastAPI, Python, Go e Gin**
 - Foco principal: Eficiência de dados e arquitetura de sistemas.
 - Aprendendo sempre: Novas formas de otimizar consultas SQL e NoSQL.
 
