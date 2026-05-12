@@ -1,24 +1,25 @@
 # Olá, eu sou o Renato Rodrigues
 
-### Back-end Developer • Engenharia de Sistemas com IA
+### Back-end Developer • Futuro Systems Engineer com foco em IA
 
-Desenvolvedor focado em arquitetura de sistemas, desenvolvimento Back-end e construção de aplicações escaláveis.
+Desenvolvedor Back-end focado em arquitetura de sistemas, aplicações escaláveis e desenvolvimento de APIs modernas.
 
-Tenho experiência no desenvolvimento de APIs modernas utilizando Python e FastAPI, com foco em organização estrutural, performance, modelagem de dados e integração entre serviços.
+Trabalho principalmente com Python e FastAPI, criando soluções organizadas, eficientes e de fácil manutenção. Também possuo conhecimento funcional em Front-end, permitindo melhor integração entre serviços e desenvolvimento completo de aplicações.
 
-Atualmente direciono meus estudos e projetos para Engenharia de Sistemas com Inteligência Artificial, buscando aplicar IA em soluções modernas, automação de processos e arquiteturas inteligentes.
+Atualmente direciono meus estudos para Systems Engineering e Inteligência Artificial, buscando aprofundamento em arquitetura escalável, sistemas inteligentes e engenharia de software aplicada à IA.
 
 ---
 
-## Áreas de Atuação
+## Áreas de Interesse
 
 - Desenvolvimento Back-end
-- APIs REST
 - Arquitetura de Sistemas
+- APIs REST
 - Engenharia de Software
-- Inteligência Artificial aplicada a sistemas
-- Estruturação de aplicações escaláveis
-- Integração entre serviços e banco de dados
+- Inteligência Artificial
+- Sistemas Escaláveis
+- Modelagem de Dados
+- Integração de Serviços
 
 ---
 
@@ -39,13 +40,13 @@ Atualmente direciono meus estudos e projetos para Engenharia de Sistemas com Int
 ## Atualmente
 
 - Desenvolvendo sistemas com FastAPI e React
-- Estudando Engenharia de Sistemas com IA
+- Estudando Systems Engineering e IA
 - Aprimorando arquitetura Back-end e modelagem de dados
-- Explorando aplicações de IA integradas a sistemas web
+- Explorando aplicações inteligentes integradas a sistemas web
 
 ---
 
-## Como me encontrar
+## Contato
 
 <div align="left">
 
