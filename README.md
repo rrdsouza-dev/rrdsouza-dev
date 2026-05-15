@@ -1,29 +1,31 @@
-# Olá, eu sou o Renato Rodrigues
+# Olá, eu sou Renato Rodrigues
 
-### Back-end Developer • Futuro Systems Engineer com foco em IA
+### Python Web Developer • Focado em Back-end, futuro  Engineer System IA
 
-Desenvolvedor Back-end focado em arquitetura de sistemas, aplicações escaláveis e desenvolvimento de APIs modernas.
+Desenvolvedor focado em aplicações web utilizando Python, com interesse em arquitetura de sistemas, escalabilidade e Inteligência Artificial.
 
-Trabalho principalmente com Python e FastAPI, criando soluções organizadas, eficientes e de fácil manutenção. Também possuo conhecimento funcional em Front-end, permitindo melhor integração entre serviços e desenvolvimento completo de aplicações.
+Atualmente trabalho no desenvolvimento de APIs modernas e aplicações web utilizando FastAPI, buscando sempre código limpo, organização e boas práticas de desenvolvimento.
 
-Atualmente direciono meus estudos para Systems Engineering e Inteligência Artificial, buscando aprofundamento em arquitetura escalável, sistemas inteligentes e engenharia de software aplicada à IA.
+Também possuo conhecimento funcional em Front-end, permitindo melhor integração entre interface, serviços e banco de dados.
 
----
-
-## Áreas de Interesse
-
-- Desenvolvimento Back-end
-- Arquitetura de Sistemas
-- APIs REST
-- Engenharia de Software
-- Inteligência Artificial
-- Sistemas Escaláveis
-- Modelagem de Dados
-- Integração de Serviços
+Meu objetivo profissional é evoluir para a área de Systems Engineering e AI Engineering, aprofundando conhecimentos em sistemas distribuídos, arquitetura escalável e aplicações inteligentes.
 
 ---
 
-## Tecnologias
+# Áreas de Interesse
+
+- Back-end Development
+- Python Web Development
+- Software Architecture
+- REST APIs
+- Artificial Intelligence
+- Scalable Systems
+- Data Modeling
+- Service Integration
+
+---
+
+# Tecnologias
 
 <div align="left">
 
@@ -32,21 +34,29 @@ Atualmente direciono meus estudos para Systems Engineering e Inteligência Artif
 <img src="https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-333333?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker&logoColor=white" />
 
 </div>
 
 ---
 
-## Atualmente
+# Atualmente
 
-- Desenvolvendo sistemas com FastAPI e React
-- Estudando Systems Engineering e IA
-- Aprimorando arquitetura Back-end e modelagem de dados
-- Explorando aplicações inteligentes integradas a sistemas web
+- Desenvolvendo APIs com FastAPI
+- Construindo aplicações web com Python e React
+- Estudando arquitetura de software e modelagem de dados
+- Aprimorando conhecimentos em IA e sistemas escaláveis
+- Explorando integração entre aplicações inteligentes e sistemas web
 
 ---
 
-## Contato
+# Objetivo
+
+Evoluir como engenheiro de software, desenvolvendo sistemas robustos, escaláveis e inteligentes, com foco futuro em Systems Engineering e Inteligência Artificial.
+
+---
+
+# Contato
 
 <div align="left">
 
@@ -63,3 +73,5 @@ Atualmente direciono meus estudos para Systems Engineering e Inteligência Artif
 </a>
 
 </div>
+```
+
