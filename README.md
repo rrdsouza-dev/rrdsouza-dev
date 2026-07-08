@@ -1,27 +1,31 @@
 # Olá, eu sou Renato Rodrigues
 
-### Python Web Developer • Focado em Back-end, futuro  Engineer System IA
+### Back-end Developer • Python & Go • Futuro AI Engineer
 
-Desenvolvedor focado em aplicações web utilizando Python, com interesse em arquitetura de sistemas, escalabilidade e Inteligência Artificial.
+Sou desenvolvedor Back-end com foco na criação de APIs e aplicações web utilizando Python e Go. Tenho interesse em arquitetura de software, sistemas escaláveis e desenvolvimento de aplicações inteligentes.
 
-Atualmente trabalho no desenvolvimento de APIs modernas e aplicações web utilizando FastAPI, buscando sempre código limpo, organização e boas práticas de desenvolvimento.
+Atualmente desenvolvo serviços web com FastAPI e Gin, buscando sempre aplicar código limpo, boas práticas de desenvolvimento, organização e arquitetura bem estruturada.
 
-Também possuo conhecimento funcional em Front-end, permitindo melhor integração entre interface, serviços e banco de dados.
+Possuo conhecimentos em HTML e CSS para desenvolver interfaces simples e entregar aplicações completas quando necessário. Meu foco principal, porém, está no Back-end, mantendo apenas conhecimento funcional em Front-end.
 
-Meu objetivo profissional é evoluir para a área de Systems Engineering e AI Engineering, aprofundando conhecimentos em sistemas distribuídos, arquitetura escalável e aplicações inteligentes.
+Também possuo conhecimento básico em deploy de aplicações web utilizando Docker e ambientes Linux.
+
+Meu objetivo profissional é atuar futuramente com Engenharia de Inteligência Artificial, desenvolvendo sistemas inteligentes capazes de integrar IA a aplicações reais, sempre apoiados por uma arquitetura escalável e robusta.
 
 ---
 
 # Áreas de Interesse
 
 - Back-end Development
-- Python Web Development
-- Software Architecture
+- Python Development
+- Go Development
+- Web Services
 - REST APIs
+- Software Architecture
 - Artificial Intelligence
-- Scalable Systems
+- Distributed Systems
+- Scalable Applications
 - Data Modeling
-- Service Integration
 
 ---
 
@@ -31,10 +35,15 @@ Meu objetivo profissional é evoluir para a área de Systems Engineering e AI En
 
 <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-333333?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-333333?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Gin-333333?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-333333?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
@@ -42,17 +51,18 @@ Meu objetivo profissional é evoluir para a área de Systems Engineering e AI En
 
 # Atualmente
 
-- Desenvolvendo APIs com FastAPI
-- Construindo aplicações web com Python e React
-- Estudando arquitetura de software e modelagem de dados
-- Aprimorando conhecimentos em IA e sistemas escaláveis
-- Explorando integração entre aplicações inteligentes e sistemas web
+- Desenvolvendo APIs REST com FastAPI
+- Desenvolvendo serviços web com Go e Gin
+- Estudando arquitetura de software e sistemas distribuídos
+- Aprimorando conhecimentos em bancos de dados e modelagem
+- Aprendendo deploy de aplicações utilizando Docker e Linux
+- Planejando desenvolver aplicações inteligentes com Inteligência Artificial
 
 ---
 
 # Objetivo
 
-Evoluir como engenheiro de software, desenvolvendo sistemas robustos, escaláveis e inteligentes, com foco futuro em Systems Engineering e Inteligência Artificial.
+Construir uma carreira como Back-end Engineer e, futuramente, atuar como AI Engineer, desenvolvendo aplicações inteligentes, escaláveis e de alta performance, integrando Inteligência Artificial a sistemas web modernos.
 
 ---
 
@@ -68,10 +78,8 @@ Evoluir como engenheiro de software, desenvolvendo sistemas robustos, escalávei
 <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<a href="https://discord.com/users/SEU_ID_OU_USER" target="_blank">
-<img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+<a href="https://github.com/rrdsouza-dev" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
-```
-
