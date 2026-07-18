@@ -2,15 +2,15 @@
 
 ### Back-end Developer • Python & Go • Futuro AI Engineer
 
-Sou desenvolvedor Back-end com foco na criação de APIs e aplicações web utilizando Python e Go. Tenho interesse em arquitetura de software, sistemas escaláveis e desenvolvimento de aplicações inteligentes.
+Sou desenvolvedor Back-end com foco na criação de APIs e aplicações web utilizando Go. Tenho interesse em arquitetura de software, sistemas escaláveis e desenvolvimento de aplicações inteligentes.
 
-Atualmente desenvolvo serviços web com FastAPI e Gin, buscando sempre aplicar código limpo, boas práticas de desenvolvimento, organização e arquitetura bem estruturada.
+Atualmente desenvolvo serviços web com Gin, buscando sempre aplicar código limpo, boas práticas de desenvolvimento, organização e arquitetura bem estruturada.
 
 Possuo conhecimentos em HTML e CSS para desenvolver interfaces simples e entregar aplicações completas quando necessário. Meu foco principal, porém, está no Back-end, mantendo apenas conhecimento funcional em Front-end.
 
 Também possuo conhecimento básico em deploy de aplicações web utilizando Docker e ambientes Linux.
 
-Meu objetivo profissional é atuar futuramente com Engenharia de Inteligência Artificial, desenvolvendo sistemas inteligentes capazes de integrar IA a aplicações reais, sempre apoiados por uma arquitetura escalável e robusta.
+Meu objetivo profissional é atuar futuramente com Engenharia de Inteligência Artificial, desenvolvendo sistemas inteligentes capazes de integrar IA a aplicações reais com Python, sempre apoiados por uma arquitetura escalável e robusta.
 
 ---
 
