@@ -34,7 +34,6 @@ Meu objetivo profissional é atuar futuramente com Engenharia de Inteligência A
 <div align="left">
 
 <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-333333?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-333333?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Gin-333333?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white" />
